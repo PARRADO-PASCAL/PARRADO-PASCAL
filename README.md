@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @PARRADO-PASCAL
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Java with spring boot
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java with spring boo
